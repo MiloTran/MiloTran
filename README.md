@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Long Tran
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Web Development through the Odin Project
+- 💞️ I’m looking to collaborate with you!
+- 📫 How to reach me milotran296@gmail.com
